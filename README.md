@@ -1,4 +1,4 @@
-\# Second Highest Salary: Mini Analysis
+# Second Highest Salary: Mini Analysis
 
 Find the second-highest salary and compare approaches that scale.
 
