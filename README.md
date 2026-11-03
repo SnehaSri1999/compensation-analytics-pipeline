@@ -38,6 +38,9 @@ Standard SQL and Pandas queries often assume clean data. This project replicates
 
 * **Scalability:** Evaluated multiple computation approaches ($O(n)$ aggregate passes vs. $O(u \log u)$ sorting vs. $O(n \log n)$ window ranking) for future production runs.
 
+---
+**Note:** The raw dataset used for this analysis is proprietary and sourced from a third-party platform. To comply with terms of service, the raw data file is excluded from this repository. However, the complete data cleaning, validation, and ranking logic can be reviewed directly in the Jupyter Notebook
+
 
 
 ---
